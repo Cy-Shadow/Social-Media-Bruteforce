@@ -1,7 +1,7 @@
 echo
 echo
 echo -e "
-		Created br MrHacker-X
+		Created by MrHacker-X
 	 Instagram : hackerx30
 	 Github    : MrHacker-X
          Youtube   : MrHacker X
