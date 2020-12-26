@@ -1,4 +1,5 @@
 ## Hack-OS
+A bruteForce attacking tool
 ### Fearures Of Hack-OS:
 You can bruteforce attack on your victim's Instagram, Facebook and Email ID with 100 password/second you can add your own custom password list and this tool also has password list, so If you don't have your own password list then it's ok don't worry you can use auto attack function (In this function you don't need your own password list).
 
@@ -17,7 +18,7 @@ You will get two attack type:
 + ~Linux~
 
 ### About Next Update
-+ Hack-OS will available for all operating system 
++ Hack-OS will available for all operating system in next update.
 
 
 ## Screenshot
@@ -25,6 +26,7 @@ You will get two attack type:
 
 ### Installation:
 ```
+cd
 pkg update
 pkg upgrade
 pkg install git
@@ -39,6 +41,9 @@ bash setup.sh
 ```
 pkg update && pkg upgrade && pkg install git && git clone https://github.com/MrHacker-X/Hack-OS.git && cd Hack-OS && chmod +x * && bash setup.sh && python hackos.py
 ```
+## Note :-
++ Run tor in another session when you're work with Instagram hack
++ Simply type ``` tor ``` and enter for run it
 
 ### First Look
 ![photo](https://l.top4top.io/p_1820914pl0.jpg)
