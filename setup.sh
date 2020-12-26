@@ -3,7 +3,9 @@
 clear
 bash main/banner.sh
 pkg install tor -y
-rm /data/data/com.termux/files/usr/etc/tor/torrc
+rm -rf /data/data/com.termux/files/usr/etc/tor
+rm /data/data/com.termux/files/usr/etc/tor
+mkdir /data/data/com.termux/files/usr/etc/tor
 cp torrc /data/data/com.termux/files/usr/etc/tor
 clear
 bash main/banner.sh
