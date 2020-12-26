@@ -13,6 +13,6 @@ echo -e "
  	 ██████╔╝╚██████╔╝██║ ╚████║███████╗
  	 ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝╚══════╝
 
-Hello guys Now Setup is completed, so you can run this tool by this\n'python hackos.py' or 'python3 hackos.py'
+Hello guys Now Setup is completed, so you can run this tool by this 'python hackos.py' or 'python3 hackos.py' \nRun tor in another session when you're work on Instagram hack, open another session and type 'tor' and enter for run tor
 
 " | lolcat
