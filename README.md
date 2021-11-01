@@ -21,9 +21,9 @@ BruteX is A bruteForce attacking tool
 + BruteX will available for all operating system in next update.
 
 ### Installation:
-```apt update```
-```apt upgrade```
-```apt install git -y```
+```apt update```;
+```apt upgrade```;
+```apt install git -y```;
 ```git clone https://github.com/MrHacker-X/BruteX.git/```
 ```cd BruteX```
 ```chmod +x *```
