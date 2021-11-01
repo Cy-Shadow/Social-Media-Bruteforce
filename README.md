@@ -22,8 +22,17 @@ You can bruteforce attack on your victim's Instagram, Facebook and Email ID with
 
 
 ## Screenshot
-![photo](https://h.top4top.io/p_1820k3egu0.png)
+### Main menu
+![photo](https://raw.githubusercontent.com/MrHacker-X/BruteX/main/.img/main_menu.jpg)
 
+### Input passwordlist
+![photo](https://raw.githubusercontent.com/MrHacker-X/BruteX/main/.img/pass.jpg)
+
+### Setup
+![photo](https://raw.githubusercontent.com/MrHacker-X/BruteX/main/.img/setup.jpg)
+
+### Attacking
+![photo](https://raw.githubusercontent.com/MrHacker-X/BruteX/main/.img/attacking.jpg)
 ### Installation:
 ```
 cd
