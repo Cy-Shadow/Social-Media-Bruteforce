@@ -63,7 +63,7 @@ connect_with_us = ("""\033[1;97m
 
 \033[1;91m[\033[1;97m?\033[1;91m]\033[1;92m Instagram:
 \033[1;97m➤\033[1;92m Username: hackerxmr
-\033[1;97m➤ \033[1;92mProfile Link: \033[;94mhttps://instagram.com/hackerxmr/
+\033[1;97m➤ \033[1;92mProfile Link: \033[;94mhttps://instagram.com/0hacker_x0/
 \033[1;92m
 \033[1;91m[\033[1;97m?\033[1;91m]\033[1;92m Facebook:
 \033[1;97m➤ \033[1;92mUsername: hackerxmr
