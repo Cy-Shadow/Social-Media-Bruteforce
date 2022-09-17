@@ -19,6 +19,7 @@ echo -e '\033[1;92m'
 apt-get install wget -y
 echo -e '\033[1;92m'
 pip install lolcat
+pip install bs4
 echo -e '\033[1;92m'
 pip install --upgrade pip
 echo -e '\033[1;92m'
