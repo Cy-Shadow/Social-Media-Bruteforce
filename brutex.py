@@ -192,11 +192,13 @@ while True:
 			if pas == '01' or pas == '1':
 				print()
 				os.system("instagram-py --username " + usr + " --password-list .pass.txt")
+				input("\033[1;94mPress ENTER To Continue")
 				break
 			elif pas == '02' or pas == '2':
 				print()
 				passlist = input('\033[1;91m[\033[1;97m?\033[1;91m]\033[1;92m Password list path: \033[1;97m')
 				os.system("instagram-py --username " + usr + " --password-list " + passlist)
+				input("\033[1;94mPress ENTER To Continue")
 				break
 			elif pas == '3' or pas == '03':
 				break
@@ -234,7 +236,7 @@ while True:
 			else:
 				print('\n\033[1;91m[\033[1;97m!\033[1;91m]\033[1;92m Invalid input')
 		hackbook()
-		exit()
+		input("\033[1;94mPress ENTER To Continue")
 		
 	elif menu == '03' or menu == '3':
 		while True:
@@ -269,7 +271,7 @@ while True:
 				print('\n\033[1;91m[\033[1;97m!\033[1;91m]\033[1;92m Invalid input')
 
 		hackmail()
-		exit()
+		input("\033[1;94mPress ENTER To Continue")
 
 	elif menu == '4' or menu == '04':
 		print()
