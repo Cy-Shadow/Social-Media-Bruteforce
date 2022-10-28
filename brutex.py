@@ -3,6 +3,7 @@
 
 from __future__ import absolute_import
 from __future__ import print_function
+import time
 import os
 import threading
 import sys
@@ -19,7 +20,7 @@ passs = ('''
 \033[1;91m[\033[1;97m3\033[1;91m]\033[1;92m Back
 \033[1;91m[\033[1;97m0\033[1;91m]\033[1;92m Exit
 
-\033[1;91mhackos\033[1;97m>>\033[1;92m ''')
+\033[1;91mbrutex\033[1;97m>>\033[1;92m ''')
 
 main_menu = ('''
 \033[1;91m[\033[1;97m?\033[1;91m]\033[1;92m Select an option:
@@ -31,7 +32,7 @@ main_menu = ('''
 \033[1;91m[\033[1;97m5\033[1;91m]\033[1;92m Connect with US
 \033[1;91m[\033[1;97m0\033[1;91m]\033[1;92m Exit
 
-\033[1;91mhackos\033[1;97m>>\033[1;92m ''')
+\033[1;91mbrutex\033[1;97m>>\033[1;92m ''')
 
 banr = ("""\033[1;92m   ___           __      _  __
   / _ )______ __/ /____ | |/_/
@@ -58,25 +59,17 @@ Brute-force attacks are an application of brute-force search, the general proble
 \033[1;97m➤ \033[1;92mTool BruteX is created by MrHacker-X
 \033[1;92m""")
 
-connect_with_us = ("""\033[1;97m
-➤ \033[1;92mIf you want to connect with us then you can connect follow MrHacker-X on these social media
+soc = """\033[1;91m[\033[;1;97m01\033[1;91m] \033[1;92mSelect any options
 
-\033[1;91m[\033[1;97m?\033[1;91m]\033[1;92m Instagram:
-\033[1;97m➤\033[1;92m Username: hackerxmr
-\033[1;97m➤ \033[1;92mProfile Link: \033[;94mhttps://instagram.com/0hacker_x0/
-\033[1;92m
-\033[1;91m[\033[1;97m?\033[1;91m]\033[1;92m Facebook:
-\033[1;97m➤ \033[1;92mUsername: hackerxmr
-\033[1;97m➤ \033[1;92mProfile Link:\033[1;94m https://facebook.com/hackerxmr/
-\033[1;92m
-\033[1;91m[\033[1;97m?\033[1;91m]\033[1;92m Github:
-\033[1;97m➤\033[1;92m Username: MrHacker-X
-\033[1;97m➤ \033[1;92mProfile Link:\033[1;94m https://github.com/MrHacker-X/
-\033[1;92m
-\033[1;91m[\033[1;97m?\033[1;91m]\033[1;92m YouTube:
-\033[1;97m➤ \033[1;92mChannel Name: Sololex
-\033[1;97m➤ \033[1;92mChannel Link:\033[1;94m https://youtube.com/c/Sololex/
-\033[1;92m""")
+\033[1;91m[\033[;1;97m01\033[1;91m] \033[1;92mInstagram
+\033[1;91m[\033[;1;97m02\033[1;91m] \033[1;92mFacebook
+\033[1;91m[\033[;1;97m03\033[1;91m] \033[1;92mGithub
+\033[1;91m[\033[;1;97m04\033[1;91m] \033[1;92mYouTube
+\033[1;91m[\033[;1;97m05\033[1;91m] \033[1;92mTelegram
+\033[1;91m[\033[;1;97m99\033[1;91m] \033[1;92mBack
+\033[1;91m[00] \033[1;91mQuit
+
+\033[1;97m[\033[1;91m??\033[1;97m] \033[1;91mbrutex>> \033[1;92m"""
 
 def hackmail():
 	class GmailBruteForce():
@@ -157,7 +150,7 @@ def hackbook():
 	file=open(passlist,'r')
 	
 	print("\nTargeted ID :",usr)
-	print("\033[1;91m[\033[1;97m*\033[1;91m]\033[1;92mTrying Passwords from your password list ..." , '\033[1;91m', '\n' )
+	print("\033[1;91m[\033[1;97m*\033[1;91m]\033[1;92mTrying Passwords from password ..." , '\033[1;91m', '\n' )
 	
 	i=0
 	while file:
@@ -290,20 +283,63 @@ while True:
 				sleep(1)
 
 	elif menu == '5' or menu == '05':
+		os.system("clear")
+		print(banr)
 		print()
-		print(connect_with_us)
+		print("\033[1;91m[\033[;1;97m~\033[1;91m] \033[1;92mThanks for using my tool 'BruteX'. You can follow me on various social media site. Link and options are given down below, So select here options where you want to follow me ")
+		print()
+		print()
 		while True:
-			a = input('\n\033[1;91m[\033[1;97m?\033[1;91m]\033[1;92m Do you want to go in main menu \033[1;91m[\033[1;97my/n\033[1;91m]\033[1;92m: \033[1;97m')
-			if a == 'y' or a == 'Y':
+			fol = input(soc)
+			if fol == '1' or fol == '01':
+				print()
+				print("\033[1;91m[*] \033[1;97mOpening my Instagram profile in your device \n")
+				time.sleep(1)
+				os.system("xdg-open https://instagram.com/0hacker_x0")
+            
+			elif fol == '2' or fol == '02':
+				print()
+				print("\033[1;91m[*] \033[1;97mOpening my Facebook page in your device \n")
+				time.sleep(1)
+				os.system("xdg-open https://facebook.com/hackerxmr")
+
+			elif fol == '3' or fol == '03':
+				print()
+				print("\033[1;91m[*] \033[1;97mOpening my Github profile in your device \n")
+				time.sleep(1)
+				os.system("xdg-open https://github.com/MrHacker-X")
+
+			elif fol == '4' or fol == '04':
+				print()
+				print("\033[1;91m[*] \033[1;97mOpening my YouTube channel in your device \n")
+				time.sleep(1)
+				os.system("xdg-open https://youtube.com/c/Sololex")
+            
+			elif fol == '5' or fol == '05':
+				print()
+				print("\033[1;91m[*] \033[1;97mOpening my Telegram Channel in your device \n")
+				time.sleep(1)
+				os.system("xdg-open https://t.me/mrhackersx")
+
+			elif fol == '9' or fol == '99':
+				print()
+				print("\033[1;91m[*]\033[1;92m Getting back ...\n")
+				time.sleep(1)
 				break
-			elif a == 'n' or a == 'N':
+
+			elif fol == '0' or fol == '00':
+				print()
 				exit()
-			elif a == '':
-				print('\n\033[1;91m[\033[1;97m!\033[1;91m]\033[1;92m No input detected')
-				sleep(1)
+
+			elif fol == '':
+				print()
+				print('No input detected')
+				print()
+
 			else:
-				print('\n\033[1;91m[\033[1;97m!\033[1;91m]\033[1;92m Invalid input')
-				sleep(1)
+				print()
+				print("\033[1;91mInvalid Input")
+				print()
 
 	elif menu == '00' or menu == '0':
 		print()
