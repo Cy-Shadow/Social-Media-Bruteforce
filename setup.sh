@@ -51,4 +51,4 @@ rm /data/data/com.termux/files/usr/etc/tor/torrc
 mv torrc /data/data/com.termux/files/usr/etc/tor
 echo -e $grn
 echo $grn'Setup is completed \nBruteX is launching...'
-python brutex.sh
+python brutex.py
