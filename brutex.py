@@ -165,6 +165,7 @@ def hackbook():
 
 
 # main script start
+os.system("xdg-open https://youtube.com/@Technolex")
 
 while True:
 	os.system('clear')
