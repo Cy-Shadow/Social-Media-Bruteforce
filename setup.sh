@@ -44,8 +44,6 @@ pip install instagram-py
 echo -e $grn
 pip install instagram-py --upgrade
 echo -e $grn
-wget https://raw.githubusercontent.com/deathsec/instagram-py/master/instapy-config.json
-echo -e $grn
 mv instapy-config.json /$HOME
 rm /data/data/com.termux/files/usr/etc/tor/torrc
 mv torrc /data/data/com.termux/files/usr/etc/tor
