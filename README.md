@@ -7,7 +7,7 @@ BruteX is A bruteForce attacking tool
 + ```Enhanced Features```
 
 
-![Visitors](https://shields.io/badge/dynamic/json?color=blue&label=Visitors&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FMrHacker-X.BruteX%2FREADME)
+![Visitors](https://shields.io/badge/dynamic/json?color=blue&label=Visitors&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FMrHacker-X/BruteX%2FREADME)
 
 
 
