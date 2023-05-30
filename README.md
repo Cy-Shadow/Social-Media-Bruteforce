@@ -6,6 +6,9 @@ BruteX is A bruteForce attacking tool
 + ```Added update feature```
 + ```Enhanced Features```
 
+<a href="https://github.com/MrHacker-X/BruteX"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=MrHacker-X&repo=BruteX&color=blueviolet&style=flat-square"></a>
+
+
 
 ## Star History
 
