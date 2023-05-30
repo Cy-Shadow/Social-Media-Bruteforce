@@ -7,6 +7,9 @@ BruteX is A bruteForce attacking tool
 + ```Enhanced Features```
 
 
+![Visitors](https://shields.io/badge/dynamic/json?color=blue&label=Visitors&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FMrHacker-X.BruteX%2FREADME)
+
+
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=MrHacker-X/BruteX&type=Date)](https://star-history.com/#samsesh/SocialBox-Termux&Date)
