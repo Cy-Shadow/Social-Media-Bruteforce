@@ -6,6 +6,8 @@ BruteX is A bruteForce attacking tool
 + ```Added update feature```
 + ```Enhanced Features```
 
+![Visitor Count](https://profile-counter.glitch.me/MrHacker-X/BruteX/count.svg)
+
 
 ## Star History
 
