@@ -6,9 +6,11 @@ BruteX is A bruteForce attacking tool
 + ```Added update feature```
 + ```Enhanced Features```
 
+## Visitor
+
 [![HitCount](https://hits.dwyl.com/MrHacker-X/BruteX.svg?style=flat)](http://hits.dwyl.com/MrHacker-X/BruteX)
 
-![Visitor](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2FMrHacker-X%2FBruteX.json%3Fcolor%3Dpink)
+> Note: Counting from 31/05/2023
 
 ## Star History
 
