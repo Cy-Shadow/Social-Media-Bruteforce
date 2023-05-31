@@ -10,6 +10,8 @@ BruteX is A bruteForce attacking tool
 
 [![Star History Chart](https://api.star-history.com/svg?repos=MrHacker-X/BruteX&type=Date)](https://star-history.com/#samsesh/SocialBox-Termux&Date)
 
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=MrHacker-X.BruteX)](https://github.com/MrHacker-X/BruteX)
+
 
 
 ### Features Of BruteX:
