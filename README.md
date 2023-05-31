@@ -6,9 +6,6 @@ BruteX is A bruteForce attacking tool
 + ```Added update feature```
 + ```Enhanced Features```
 
-![Visitor Count](https://profile-counter.glitch.me/MrHacker-X/BruteX/count.svg)
-
-
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=MrHacker-X/BruteX&type=Date)](https://star-history.com/#samsesh/SocialBox-Termux&Date)
