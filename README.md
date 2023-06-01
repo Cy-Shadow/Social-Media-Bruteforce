@@ -10,7 +10,7 @@ BruteX is A bruteForce attacking tool
 
 <img src="https://hits.dwyl.com/MrHacker-X/BruteX.svg" width="140" height="28"><br>
 
-> Note: Counting from 31 May 2023
+> Note: Counting from 01 June 2023
 
 ## Star History
 
