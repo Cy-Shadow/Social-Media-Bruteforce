@@ -15,80 +15,96 @@
 </p>
 
 
-## Whats New
-+ ```Fixed tor error```
-+ ```Added update feature```
-+ ```Enhanced Features```
+## What's New
 
-## Visitor
+- ` Fixed Instagram error `
+- ` Removed Tor requirement `
+- ` Enhanced user experiance `
+- ` Password list path input modified `
 
+## Introduction
+
++ BruteX is a powerful and versatile brute-force tool designed for performing targeted attacks on various platforms. It allows you to conduct brute-force attacks on Instagram, Facebook, and email accounts with remarkable speed and flexibility.
+
+
+## Visitor Count
 <img src="https://hits.dwyl.com/MrHacker-X/BruteX.svg" width="140" height="28"><br>
 
 > Note: Counting from 01 June 2023
+
 
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=MrHacker-X/BruteX&type=Date)]
 
 
-### Features Of BruteX:
-+ You can bruteforce attack on your victim's Instagram, Facebook and Email ID with 100 password/second you can add your own custom password list and this tool also has password list, so If you don't have your own password list then it's ok don't worry you can use auto attack function (In this function you don't need your own password list).
 
-## Attack Type
-#### BruteForce Attack
+## Features of BruteX
 
-+ Auto Attack
-+ Manual Attack
+- Perform brute-force attacks on Instagram, Facebook, and email accounts.
+- Achieve incredible speed with the ability to attempt 100 passwords per second.
+- Use your own custom password list or choose from BruteX's comprehensive built-in password list.
+- Simplify the attack process with the auto attack function, eliminating the need for your own password list.
 
-#### python or python3 supporting
+## Compatibility
 
-### Tested on:
-+ Termux
-+ ~Linux~
-### Available for:
-+ Termux
-+ ~Linux~
+- Tested on Termux and Linux.
+- Available for Termux and Linux.
 
-### About Next Update
-+ BruteX will available for all operating system in next update.
 
-### Installation:
-+ ```apt update```
-+ ```apt upgrade```
-+ ```apt install git -y```
-+ ```git clone https://github.com/MrHacker-X/BruteX.git/```
-+ ```cd BruteX```
-+ ```chmod +x *```
-+ ```bash setup.sh``` or ```./setup.sh```
+## Installation
 
-#### Now wait for installation of the tool, If your setup is completed then you can run it by this
-``` python brutex.py ``` or ``` python3 brutex.py ```
-## Single line command:
-```
-apt update && apt upgrade && apt install git -y && git clone https://github.com/MrHacker-X/BruteX.git/ && cd BruteX && chmod +x * && bash setup.sh && python brutex.py
-```
+1. Update and upgrade your system:
 
-## Screenshot
+- ` apt-get update -y`
+- ` apt-get upgrade -y `
+
+2. Install Git:
+
+- ` apt-get install git -y `
+
+3. Clone Repository:
+
+- ` git clone https://github.com/MrHacker-X/BruteX.git/ `
+
+4. Move into BruteX Directory:
+
+- ` cd BruteX `
+
+5. Set permissions:
+
+- ` chmod +x * `
+
+6. Execute setup file to install necessary packages and modules:
+
+- ` bash setup.sh `
+
+7. Now Execute main file:
+
+- ` python3 brutex.py `
+
+
+## Screenshots
 ### Main menu
-![photo](https://raw.githubusercontent.com/MrHacker-X/BruteX/main/.img/main_menu.jpg)
+![photo](https://i.ibb.co/p3wCmsk/Screenshot-2023-06-25-15-15-19-591-edit-com-termux.jpg)
 
-### Input passwordlist
-![photo](https://raw.githubusercontent.com/MrHacker-X/BruteX/main/.img/pass.jpg)
-
-### Setup
-![photo](https://raw.githubusercontent.com/MrHacker-X/BruteX/main/.img/setup.jpg)
+### Setting up
+![photo](https://i.ibb.co/yNKdpGw/setup.jpg)
 
 ### Attacking
-![photo](https://raw.githubusercontent.com/MrHacker-X/BruteX/main/.img/attacking.jpg)
+![photo](https://i.ibb.co/TwxT6k7/Screenshot-2023-06-25-19-57-16-199-edit-com-termux.jpg)
 
-## Note :-
-+ Run ```tor``` in another session when you're work with Instagram hack
-+ Simply type ``` tor ``` and enter for run it
+<h3>Donate</h3>
+███ BTC, USDT, LTC, ETH ███
 
-#### Created By : MrHacker-X
+```0xe64f7b01f4f7246e59b9a8e71f4ee7bbc78dcff9```  [BEP20]
 
 <h3><b><i>📡 Connect with us :</i></b></h3>
-<a href="https://github.com/MrHacker-X/"><img align="left" title="Github" alt="Github" width="30px" src="https://raw.githubusercontent.com/MrHacker-X/MrHacker-X/main/assets/github.png" /></a>
-<a href="https://instagram.com/hackerxmr/"><img align="left" title="Instagram" alt="Instagram" width="30px" src="https://github.com/MrHacker-X/MrHacker-X/blob/main/assets/instagram.png" /></a>
-<a href="https://t.me/hackwithalex"><img align="left" title="Telegram" alt="Telegram" width="30px" src="https://github.com/MrHacker-X/MrHacker-X/blob/main/assets/telegram.png" /></a>
-<a href="https://youtube.com/@Technolex//"><img align="left" title="YouTube" alt="YouTube" width="30px" src="https://github.com/MrHacker-X/MrHacker-X/blob/main/assets/youtube.png" /></a>
+
+[![Telegram](https://img.shields.io/badge/Telegram-Channel-blue?style=flat-square&logo=telegram)](https://telegram.me/hackwithalex)
+<br>
+[![YouTube](https://img.shields.io/badge/YouTube-Channel-red?style=flat-square&logo=youtube)](https://www.youtube.com/@Technolex)
+<br>
+[![Instagram](https://img.shields.io/badge/Instagram-Profile-pink?style=flat-square&logo=instagram)](https://www.instagram.com/0hackerx0)
+<br>
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github)](https://github.com/MrHacker-X)
