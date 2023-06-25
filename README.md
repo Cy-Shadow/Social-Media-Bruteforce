@@ -92,7 +92,7 @@
 ![photo](https://i.ibb.co/yNKdpGw/setup.jpg)
 
 ### Attacking
-![photo](https://i.ibb.co/TwxT6k7/Screenshot-2023-06-25-19-57-16-199-edit-com-termux.jpg)
+![photo](https://i.ibb.co/r5TmnBZ/IMG-20230625-153516.jpg)
 
 <h3>Donate</h3>
 ███ BTC, USDT, LTC, ETH ███
