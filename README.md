@@ -56,8 +56,8 @@
 
 1. Update and upgrade your system:
 
-- ` apt-get update -y`
-- ` apt-get upgrade -y `
+- `apt-get update -y`
+- `apt-get upgrade -y `
 
 2. Install Git:
 
