@@ -97,7 +97,8 @@
 <h3>Donate</h3>
 ███ BTC, USDT, LTC, ETH ███
 
-```0xe64f7b01f4f7246e59b9a8e71f4ee7bbc78dcff9```  [BEP20]
+```0xe64f7b01f4f7246e59b9a8e71f4ee7bbc78dcff9``` 
+[BEP20]
 
 <h3><b><i>📡 Connect with us :</i></b></h3>
 
