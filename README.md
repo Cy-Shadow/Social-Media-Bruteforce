@@ -94,7 +94,7 @@
 ### Attacking
 ![photo](https://i.ibb.co/r5TmnBZ/IMG-20230625-153516.jpg)
 
-<h3>Donate</h3>
+<h3>Donate Please</h3>
 ███ BTC, USDT, LTC, ETH ███ (BEP20)
 
 ```
