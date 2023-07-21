@@ -17,10 +17,8 @@
 
 ## What's New
 
-- ` Fixed Instagram error `
-- ` Removed Tor requirement `
-- ` Enhanced user experiance `
-- ` Password list path input modified `
+- ` Showing only loading error fixed `
+- ` Password list detection added `
 
 ## Introduction
 
